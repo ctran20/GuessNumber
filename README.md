@@ -1,6 +1,13 @@
 # Guess a Number
 Android/IOS application developed with React Native that try to guess the user's number from 1 to 99 using the provided hints.
 
+To run the project:
+
+1. Install expo
+2. Clone this repo
+3. Run `npm install`
+4. Run `npm start`
+<hr>
 <h3>Demo:</h3>
 
 <img src="git-imgs/demo.gif" width="300" />
